@@ -2,7 +2,7 @@
 
 let url = window.location.href;
 
-let swLocation = '/practica3PWA_/sw.js';
+let swLocation = '/practica3PWA/sw.js';
 
 
 
